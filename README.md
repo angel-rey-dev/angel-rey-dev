@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Jose Angel Rey Github banner](Github-banner.webp)
 <!--
 **Jose-Angel-Rey/Jose-Angel-Rey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
