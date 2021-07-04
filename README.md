@@ -4,7 +4,7 @@
 <!--   <a href="#" target="blank">
     <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
   </a> -->
-  <a href="#" target="blank">
+  <a href="https://jose-angel-rey.vercel.app/" target="blank">
     <img align="center" src="./icons/Web.svg" alt="Jose Angel Rey" height="25" width="35" />
   </a>
   <a href="mailto:dev.joseangel.rey@gmail.com" target="blank">
