@@ -5,6 +5,24 @@
     </a>
 </h1>
 
+<p align="center">
+<!--   <a href="#" target="blank">
+    <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
+  </a> -->
+  <a href="https://jose-angel-rey.vercel.app/" target="blank">
+    <img align="center" src="./icons/Web.svg" alt="Jose Angel Rey" height="25" width="35" />
+  </a>
+  <a href="mailto:dev.joseangel.rey@gmail.com" target="blank">
+    <img align="center" src="./icons/logos_google-gmail.svg" alt="Jose Angel Rey" height="25" width="30" />
+  </a>
+ <a href="https://www.freecodecamp.org/jose-angel-rey" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/freecodecamp.svg" alt="Jose Angel Rey's FreeCodeCamp profile" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/jose-angel-rey/" target="blank">
+    <img align="center" src="./icons/logos_linkedin-icon.svg" alt="Jose Angel Rey" height="30" width="40" />
+  </a>
+</p>
+
 <br><br>
 
 ```js
@@ -53,25 +71,6 @@ About Me = {
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Angel-Rey&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a><br> 
 
 
-<h2 align="center">📧 Contact me</h2>
-
-<p align="center">
-<!--   <a href="#" target="blank">
-    <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
-  </a> -->
-  <a href="https://jose-angel-rey.vercel.app/" target="blank">
-    <img align="center" src="./icons/Web.svg" alt="Jose Angel Rey" height="25" width="35" />
-  </a>
-  <a href="mailto:dev.joseangel.rey@gmail.com" target="blank">
-    <img align="center" src="./icons/Envelop.svg" alt="Jose Angel Rey" height="25" width="30" />
-  </a>
- <a href="https://www.freecodecamp.org/jose-angel-rey" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/freecodecamp.svg" alt="Jose Angel Rey's FreeCodeCamp profile" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/jose-angel-rey/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg" alt="Jose Angel Rey" height="30" width="40" />
-  </a>
-</p>
 
 
 
