@@ -45,6 +45,9 @@ About Me = {
 <code><img src="./icons//tech/CSS.png" alt="CSS"/></code>&nbsp;
 <code><img src="./icons//tech/SASS.png" alt="SASS"/></code>&nbsp;
 <code><img src="./icons//tech/Bootstrap.png" alt="Bootstrap"/></code>&nbsp;
+</p>
+<p align="center">     
+<!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
 <code><img src="./icons//tech/Javascript.png" alt="Javascript"/></code>&nbsp;
 <code><img src="./icons//tech/Typescript.png" alt="Typescript"/></code>&nbsp;
 <code><img src="./icons//tech/React.png" alt="React"/></code>&nbsp;
@@ -72,8 +75,7 @@ About Me = {
 
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/Jose-Angel-Rey" src="https://github-readme-stats.vercel.app/api?username=Jose-Angel-Rey&theme=chartreuse-dark&show_icons=true" alt="avipatilpro"/></p></a>
 
-
-<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Angel-Rey&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a><br> 
+<a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Angel-Rey&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a><br> 
 
 
 
