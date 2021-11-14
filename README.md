@@ -38,7 +38,7 @@ About Me = {
 <h2 align="center">Skills 💪</h2>
 <p align="center">     
 <code>
-    <img src="./icons/Html.svg" alt="HTML5" width="60" height="60"/>
+    <img src="./icons//tech/HTML.png" alt="HTML5"/>
 </code>&nbsp;
     
 <code>
