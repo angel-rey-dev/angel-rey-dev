@@ -4,7 +4,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&color=%2364F73D&size=40&center=true&vCenter=true&lines=Hello!+👋;I'm+Jose+Angel+Rey...;Good+to+see+you+here!&center=true&size=35&color=4bc46b">
     </a>
 </h1>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jose-Angel-Rey&label=Profile%20views&color=0e75b6&style=flat" alt="Jose-Angel-Rey" /> </p>
 <p align="center">
 <!--   <a href="#" target="_blank">
     <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
@@ -40,14 +40,14 @@ About Me = {
 
 <h3 align="center">Frontend 🎨</h3>
 <p align="center">     
-<!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
+<!--  These logos are copyrighted and may only be used in this Github profile -->
 <code><img src="./icons//tech/HTML.png" alt="HTML5"/></code>&nbsp;
 <code><img src="./icons//tech/CSS.png" alt="CSS"/></code>&nbsp;
 <code><img src="./icons//tech/SASS.png" alt="SASS"/></code>&nbsp;
 <code><img src="./icons//tech/Bootstrap.png" alt="Bootstrap"/></code>&nbsp;
 </p>
 <p align="center">     
-<!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
+<!--  These logos are copyrighted and may only be used in this Github profile  -->
 <code><img src="./icons//tech/Javascript.png" alt="Javascript"/></code>&nbsp;
 <code><img src="./icons//tech/Typescript.png" alt="Typescript"/></code>&nbsp;
 <code><img src="./icons//tech/React.png" alt="React"/></code>&nbsp;
@@ -56,7 +56,7 @@ About Me = {
 
 <h3 align="center">Backend and Databases 🗄</h3>
 <p align="center">     
-<!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
+<!--  These logos are copyrighted and may only be used in this Github profile -->
 <code><img src="./icons//tech/Node.png" alt="Node"/></code>&nbsp;
 <code><img src="./icons//tech/Express.png" alt="Express"/></code>&nbsp;
 <code><img src="./icons//tech/Postgre.png" alt="Postgre"/></code>&nbsp;
