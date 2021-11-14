@@ -35,35 +35,40 @@ About Me = {
 ```
 
 <br>
+<!-- ----------------------------------------------------------------------------------- -->
 <h2 align="center">Skills 💪</h2>
+
+<h3 align="center">Frontend 🎨</h3>
 <p align="center">     
-<code>
-    <img src="./icons//tech/HTML.png" alt="HTML5"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Css.svg" alt="CSS3" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Sass.svg" alt="Sass" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Javascript.svg" alt="Javascript" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Git.svg" alt="Git" width="60" height="60"/>
-</code>&nbsp;
-<!-- <code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code>&nbsp; -->
+<!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
+<code><img src="./icons//tech/HTML.png" alt="HTML5"/></code>&nbsp;
+<code><img src="./icons//tech/CSS.png" alt="CSS"/></code>&nbsp;
+<code><img src="./icons//tech/SASS.png" alt="SASS"/></code>&nbsp;
+<code><img src="./icons//tech/Bootstrap.png" alt="Bootstrap"/></code>&nbsp;
+<code><img src="./icons//tech/Javascript.png" alt="Javascript"/></code>&nbsp;
+<code><img src="./icons//tech/Typescript.png" alt="Typescript"/></code>&nbsp;
+<code><img src="./icons//tech/React.png" alt="React"/></code>&nbsp;
+<code><img src="./icons//tech/Redux.png" alt="Redux"/></code>&nbsp;
 </p>
 
+<h3 align="center">Backend and Databases 🗄</h3>
+<p align="center">     
+<!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
+<code><img src="./icons//tech/Node.png" alt="Node"/></code>&nbsp;
+<code><img src="./icons//tech/Express.png" alt="Express"/></code>&nbsp;
+<code><img src="./icons//tech/Postgre.png" alt="Postgre"/></code>&nbsp;
+<code><img src="./icons//tech/Sequelize.png" alt="Sequelize"/></code>&nbsp;
+</p>
 
+<h3 align="center">More tools 🔨</h3>
+<p align="center">     
+<!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
+<code><img src="./icons//tech/GIT.png" alt="Gi"/></code>&nbsp;
+<code><img src="./icons//tech/Figma.png" alt="Figma"/></code>&nbsp;
+</p>
+<!-- ------------------------------------------------------------------------------------- -->
+
+---
 
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/Jose-Angel-Rey" src="https://github-readme-stats.vercel.app/api?username=Jose-Angel-Rey&theme=chartreuse-dark&show_icons=true" alt="avipatilpro"/></p></a>
 
