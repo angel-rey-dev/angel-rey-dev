@@ -1,10 +1,14 @@
-<h1 align="center">
-<!--     Hi  &nbsp;<img src="./icons/Hi.gif" width="48px"> -->
+<!-- <h1 align="center">
       <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&color=%2364F73D&size=40&center=true&vCenter=true&lines=Hello!+👋;I'm+Jose+Angel+Rey...;Good+to+see+you+here!&center=true&size=35&color=4bc46b">
     </a>
-</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jose-Angel-Rey&label=Profile%20views&color=0e75b6&style=flat" alt="Jose-Angel-Rey" /> </p>
+</h1> -->
+
+<h1 align="center">Hi <img src="./icons/Hi.gif" width="48px">, I'm Jose Angel Rey</h1>
+<h3 align="center">A passionate Frontend Developer from Venezuela</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jose-Angel-Rey&label=Profile%20views&color=0f7d16&style=flat" alt="Jose-Angel-Rey" /> </p>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <!--   <a href="#" target="_blank">
     <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
@@ -73,14 +77,17 @@ About Me = {
 
 ---
 
-<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/Jose-Angel-Rey" src="https://github-readme-stats.vercel.app/api?username=Jose-Angel-Rey&theme=chartreuse-dark&show_icons=true" alt="avipatilpro"/></p></a>
+<a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Angel-Rey&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a>
 
-<a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Angel-Rey&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a><br> 
+<a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/Jose-Angel-Rey" src="https://github-readme-stats.vercel.app/api?username=Jose-Angel-Rey&theme=chartreuse-dark&show_icons=true" alt="avipatilpro"/></p></a>
 
+<p align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-angel-rey&theme=chartreuse-dark&show_icons=true" alt="jose-angel-rey" />
+</p>
 
-
-
-
+<p align="center"> 
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jose-angel-rey" alt="jose-angel-rey" /></a> 
+</p>
 
 <!-- ![Jose Angel Rey Github banner](Github-banner.webp) -->
 <!-- ![Jose Angel Rey GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Angel-Rey&show_icons=true&theme=chartreuse-dark) -->
