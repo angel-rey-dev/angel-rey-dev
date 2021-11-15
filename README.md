@@ -32,15 +32,16 @@
 ```js
 About Me = {
     "I am self-taught developer 👨🏻‍💻",
-    "I mainly like frontend development",
-    "I am constantly learning javascript related technologies",
+    "I am mainly interested in frontend development 💻",
+    "I like to keep abreast of trends related to user interface design 🎨",
+    "I am constantly learning javascript related technologies 📚",
     Currently_learning: ["Typescript", "VueJS"]
 }
 ```
 
 <br>
 <!-- ----------------------------------------------------------------------------------- -->
-<h2 align="center">Skills 💪</h2>
+<h2 align="center">Skills 🦾</h2>
 
 <h3 align="center">Frontend 🎨</h3>
 <p align="center">     
