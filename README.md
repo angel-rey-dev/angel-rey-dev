@@ -32,9 +32,9 @@
 ```js
 About Me = {
     "I am self-taught developer 👨🏻‍💻",
-    "I am mainly interested in frontend development 💻",
+    "I am mainly interested in Frontend Development 💻",
     "I like to keep abreast of trends related to user interface design 🎨",
-    "I am constantly learning javascript related technologies 📚",
+    "I am constantly learning Javascript related technologies 📚",
     Currently_learning: ["Typescript", "VueJS"]
 }
 ```
