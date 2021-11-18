@@ -177,24 +177,24 @@ Here are some ideas to get you started:
       </a>
       <br>ExpressJS
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td> -->
+    </td> 
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgresql
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
-    </td> -->
+    </td> 
     <td align="center"  width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" width="48" height="48" alt="Github" />
