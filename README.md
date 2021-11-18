@@ -87,7 +87,7 @@ About Me = {
 </p>
 
 <p align="center"> 
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jose-angel-rey&column=7&margin-w=20&margin-h=15&theme=onestar" alt="jose-angel-rey" /></a> 
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jose-angel-rey&column=4&margin-w=20&margin-h=15&theme=onestar" alt="jose-angel-rey" /></a> 
 </p>
 
 <!-- ![Jose Angel Rey Github banner](Github-banner.webp) -->
