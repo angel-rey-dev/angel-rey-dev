@@ -86,9 +86,17 @@ About Me = {
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-angel-rey&theme=chartreuse-dark&show_icons=true" alt="jose-angel-rey" />
 </p>
 
+<!-- 
 <p align="center"> 
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jose-angel-rey&column=4&margin-w=20&margin-h=15&theme=onestar" alt="jose-angel-rey" /></a> 
 </p>
+ -->
+ 
+<!-- 
+<br/>
+<a href="https://github.com/Jose-Angel-Rey/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jose-Angel-Rey&bg_color=0D1117&color=4bc46b&line=4bc46b&point=FFFFFF&hide_border=true" /></a>
+<br/>
+ -->
 
 <!-- ![Jose Angel Rey Github banner](Github-banner.webp) -->
 <!-- ![Jose Angel Rey GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Angel-Rey&show_icons=true&theme=chartreuse-dark) -->
