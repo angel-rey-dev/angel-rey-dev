@@ -4,7 +4,8 @@
     </a>
 </h1> -->
 
-<h1 align="center">Hi <img src="./icons/Hi.gif" width="48px">, I'm Jose Angel Rey</h1>
+<!-- <h1 align="center">Hi <img src="./icons/Hi.gif" width="40px">, I'm Jose Angel Rey</h1> -->
+<h1 align="center">Hi 👋, I'm Jose Angel Rey</h1>
 <h3 align="center">A passionate Frontend Developer from Venezuela</h3>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jose-Angel-Rey&label=Profile%20views&color=0f7d16&style=flat" alt="Jose-Angel-Rey" /> </p> -->
 
@@ -41,7 +42,8 @@ About Me = {
 
 <br>
 <!-- ----------------------------------------------------------------------------------- -->
-<h2 align="center">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<!-- <h2 align="center">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2> -->
+<h2 align="center">Skills 🦾</h2>
 
 <h3 align="center">Frontend 🎨</h3>
 <p align="center">     
