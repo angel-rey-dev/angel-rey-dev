@@ -35,8 +35,7 @@ About Me = {
     "I am self-taught developer 👨🏻‍💻",
     "I am mainly interested in Frontend Development 💻",
     "I like to keep abreast of trends related to user interface design 🎨",
-    "I am constantly learning Javascript related technologies 📚",
-    Currently_learning: ["Typescript", "Vue JS"]
+    "I am constantly learning Javascript related technologies 📚"
 }
 ```
 
